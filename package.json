@@ -2,9 +2,8 @@
     "name": "flint-ts",
     "version": "1.0.0",
     "description": "flint-ts",
-    "main": "./dist/index.js",
-    "types": "./dist/index.d.ts",
-    "module": "./dist/index.js",
+    "main": "./lib/index.js",
+    "types": "./lib/index.d.ts",
     "private": false,
     "scripts": {
         "build": "tsc"
