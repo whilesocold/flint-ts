@@ -1,0 +1,15 @@
+{
+    "name": "flint-ts",
+    "version": "1.0.0",
+    "description": "flint-ts",
+    "main": "src/index.ts",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "Richard Lord",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.3.5"
+    }
+}
