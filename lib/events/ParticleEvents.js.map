@@ -1,1 +1,1 @@
-{"version":3,"file":"ParticleEvents.js","sourceRoot":"","sources":["../../src/events/ParticleEvents.ts"],"names":[],"mappings":";;AAAA,MAAqB,cAAc;;AAAnC,iCAGC;AAFQ,6BAAc,GAAG,eAAe,CAAC;AACjC,qCAAsB,GAAG,sBAAsB,CAAC"}
+{"version":3,"file":"ParticleEvents.js","sourceRoot":"","sources":["../../src/events/ParticleEvents.ts"],"names":[],"mappings":"AAAA;IAAA;IAGA,CAAC;IAFQ,6BAAc,GAAG,eAAe,CAAC;IACjC,qCAAsB,GAAG,sBAAsB,CAAC;IACzD,qBAAC;CAAA,AAHD,IAGC;eAHoB,cAAc"}

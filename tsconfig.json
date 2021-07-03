@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
     "forceConsistentCasingInFileNames": true,
-    "target": "es2017",
-    "module": "commonjs",
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "esnext",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "declaration": true,
